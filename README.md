@@ -1,10 +1,10 @@
 # Chore No More
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Chore No More is going to be a website that can support a wide range of users in scheduling chores with the members of their household. Users will be able to create chores, assign chores to household members, access a calendar, receive reminders, and much more. We intend for this website to streamline and automate the process of scheduling chores for both families and roommates.
 
 ## UX Team Members
 
-* **Olivia Ennis** - https://usabilityengineering.github.io/ux-portfolio-ocennis/ - Personas and Scenarios, Sketches and Diagrams
+* **Olivia Ennis** - https://usabilityengineering.github.io/ux-portfolio-ocennis/ - Personas and Scenarios, Sketches and Diagrams, Introduction
 * **Miles Benton** - (!!!URL to Person B's published portfolio!!!) - !!!List of Person B's primary contributions!!!
 * **Christopher Fernand Gonzalez** - (!!!URL to Person C's published portfolio!!!) - !!!List of Person C's primary contributions!!!
 
