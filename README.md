@@ -11,7 +11,7 @@
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](personas/Personas and Scenarios - Chore No More (1).pdf)
+* [Personas and Scenarios](https://github.com/UsabilityEngineering/ChoreNoMore/blob/c36e90bd4ffa263add287dc498aaafb4ab17f392/personas/PersonasandScenarios-ChoreNoMore.pdf)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](#) - Coming soon (phase II)!
 * [Prototype](#) - Coming soon (phase III)!
