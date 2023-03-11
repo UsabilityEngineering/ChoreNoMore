@@ -6,7 +6,7 @@
 
 ## UX Team Members
 
-* **Olivia Ennis - https://usabilityengineering.github.io/ux-portfolio-ocennis/j01/ ** - !!!List of Person A's primary contributions!!!
+* **Olivia Ennis** - https://usabilityengineering.github.io/ux-portfolio-ocennis/j01/ - Personas and Scenarios, Sketches and Diagrams
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
