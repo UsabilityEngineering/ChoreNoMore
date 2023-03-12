@@ -19,9 +19,16 @@ Chore No More is going to be a website that can support a wide range of users in
 
 **Executive Summary**
 
-* We centered the focus of our website on improving the chore process for college students and families. We will meet the unique needs and preferences of both groups through the features of our website.
-* We have a basic design for our website which outlines all currently intended features. 
-* The heuristic evaluation of our competitors has provided us with crucial information that we will use to improve the user experience of our website moving forward.
+The chore management application niche is an area ripe for disruption. We identified two primary end-users of such an app: **young adult roommates and families**. We performed research into the chore-organizational needs of these two groups.
+* A competitive analysis of competing products revealed there is **no current market leader** in this segment.
+ - Rather, the most popular competitors are real-world solutions such as a communal whiteboard or casual agreements.
+ - **Most competitors ignore the “young adult roommate” demographic**, and are rather focused on families with children.
+ - We centered further research on improving the chore process for college students and families. We will meet the unique needs and preferences of both groups through the features of our website.
+* A heuristic evaluation of a leading competitor found many low-hanging fruit improvements that could be made in error prevention and visibility of system status.
+* New personas and scenarios helped us identify useful features which we illustrated in sketches:
+ - A function to **cycle chores** between users to ensure fairness between roommates.
+ - A **log of completed chores** to allow parents to see if their kids have been doing their chores.
+ - A function to allow parents to send **push notifications** with chores to do to their kids’ phones.
 
 
 [Full phase I report](phaseI/)
