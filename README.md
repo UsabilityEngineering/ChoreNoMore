@@ -19,10 +19,10 @@ Chore No More is going to be a website that can support a wide range of users in
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* We centered the focus of our website on improving the chore process for college students and families. We will meet the unique needs and preferences of both groups through the features of our website.
+* We have a basic design for our website which outlines all currently intended features. 
+* The heuristic evaluation of our competitors has provided us with crucial information that we will use to improve the user experience of our website moving forward.
+
 
 [Full phase I report](phaseI/)
 
