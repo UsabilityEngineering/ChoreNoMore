@@ -28,8 +28,8 @@ As a part of our research into the current state of chore organization apps, our
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+In our findings, we saw that most competitors had either an overcomplicated or visually unappealing UI. In some cases, buttons and visuals masquerading as such would be counterintuitive or unnecessary. A few of the competitive apps even had simple and inconvenient issues such as making the entire chore system based on “dirtiness”. Even with these issues, competitors may have charged subscriptions to use the app or all its features.  With these findings, Chore No More seeks to improve in these areas by being completely free, having a simple intuitive, and user-friendly UI, and not having unnecessary visuals or features that may overcomplicate and confuse the user. 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Our research did come with a few limitations. The largest of which there were not many major competitors. We found that our largest competitor is a physical chore chart which is difficult to compare and/or replicate with a website or application. Another limitation was that we chose the four largest competitors but did not look at many other applications other than at a glance. In this, we did note that most apps are structured similarly in how they perform. Another issue being all the apps seemed to be centered around families and not college students or adults with roommates. 
