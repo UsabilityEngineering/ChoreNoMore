@@ -4,9 +4,9 @@ Chore No More is going to be a website that can support a wide range of users in
 
 ## UX Team Members
 
-* **Olivia Ennis** - https://usabilityengineering.github.io/ux-portfolio-ocennis/ - Personas and Scenarios, Sketches and Diagrams, Introduction, Executive Summary
-* **Miles Benton** - https://github.com/UsabilityEngineering/ux-portfolio-kil0meters - Methods, Findings
-* **Christopher Fernand Gonzalez** - https://github.com/UsabilityEngineering/ux-portfolio-ChrisG183 - Conclusions, Caveats
+* **Olivia Ennis** - <a href="https://usabilityengineering.github.io/ux-portfolio-ocennis/"> Olivia's Site </a> - Personas and Scenarios, Sketches and Diagrams, Introduction, Executive Summary
+* **Miles Benton** - <a href="https://github.com/UsabilityEngineering/ux-portfolio-kil0meters"> Miles's Site </a> - Methods, Findings
+* **Christopher Fernand Gonzalez** - <a href="https://github.com/UsabilityEngineering/ux-portfolio-ChrisG183"> Christopher's Site </a> - Conclusions, Caveats
 
 # User-Centered Design Artifacts
  
