@@ -10,8 +10,8 @@ Chore No More is going to be a website that can support a wide range of users in
 
 # User-Centered Design Artifacts
  
-* [Personas and Scenarios](https://github.com/UsabilityEngineering/ChoreNoMore/blob/c36e90bd4ffa263add287dc498aaafb4ab17f392/personas/PersonasandScenarios-ChoreNoMore.pdf)
-* [Sketches and Diagrams](https://github.com/UsabilityEngineering/ChoreNoMore/blob/d53ac33d2dbcde7594bd92100812d3ab524c1c4c/sketches/Sketches%20and%20Diagrams.pdf)
+* [Personas and Scenarios](personas/PersonasandScenarios-ChoreNoMore.pdf)
+* [Sketches and Diagrams](sketches/Sketches%20and%20Diagrams.pdf)
 * [Wireframes](#) - Coming soon (phase II)!
 * [Prototype](#) - Coming soon (phase III)!
 
