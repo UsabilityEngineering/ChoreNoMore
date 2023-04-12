@@ -37,10 +37,7 @@ The chore management application niche is an area ripe for disruption. We identi
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+
 
 [Full phase II report](phaseII/)
 
