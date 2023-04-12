@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Chore No More is going to be a website that can support a wide range of users in scheduling chores with the members of their households. In this phase, our team focused on developing our wireframes for the site. We also received feedback on our wireframes in the form of informal feedback from our software engineering team and detailed cognitive walkthroughs from our peers. We intend for this website to streamline and automate the process of scheduling chores for both families and roommates. 
 
 ## Methods
 
