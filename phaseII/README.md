@@ -22,7 +22,7 @@ We also received some informal feedback from our software engineering team:
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Our research methods, cognitive walkthroughs and informal feedback, provided valuable insight into the effectiveness of Chore No More’s design. The majority of the feedback was positive, with most users finding the wireframes easy to navigate. However, some areas of improvement were identified, such as confusion over PIN codes in account creation, unclear labeling, and a cluttered homepage. We have already addressed some of these issues and intend to fix the rest of them as we move on to the next phase of our research. This will include rethinking the child account creation process, redesigning the home page, and rewording labeling throughout the application.
 
 ## Caveats
 
