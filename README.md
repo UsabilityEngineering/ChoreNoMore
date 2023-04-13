@@ -40,8 +40,12 @@ The chore management application niche is an area ripe for disruption. We identi
 We created an initial wireframe design of our chore management application, Chore No More. We had detailed cognitive walkthroughs conducted on it and asked for informal feedback from our software engineering team, finding:
 
 * **Our designs are suitable for basic tasks.** Common tasks such as creating new chores and marking them as completed. However, during the cognitive walkthrough, we learned that certain features we outlined were not yet implemented. This has since been rectified.
-* **There are significant usability issues to address with our designs.** We identified several potential areas of confusion for users surrounding the naming of labels and buttons.
-* **The layout of our wireframes is cluttered.** A piece of informal feedback that we received from the software engineers was that our layout was cluttered. As we move towards making a prototype we intend to simplify the displayed information to the user.
+Informal feedback and cognitive walkthroughs for our wireframes for Chore No More found that we are heading in the right direction with our designs.
+* However, some areas of improvement were identified.
+  * We identified several potential areas of confusion for users surrounding the **naming of labels and buttons**.
+  * **The layout of our wireframes is cluttered.** A piece of informal feedback that we received from the software engineers was that our layout was cluttered. As we move towards making a prototype we intend to simplify the displayed information to the user.
+  * **The child account creation flow is unlearnable.** A cognitive walkthrough identified some confusion over the purpose of setting a PIN code when creating an account for your child.
+
 
 
 [Full phase II report](phaseII/)
