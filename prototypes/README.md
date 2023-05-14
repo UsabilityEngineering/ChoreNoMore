@@ -32,7 +32,7 @@ A chore page showing created chores and add chore and assign chores buttons. The
 
 ### Add Chore Menu
 
-This menu, accessible by pressing the "add chore" button on the home page, allows you to create new chores, setting due dates, assigning users, and modify other miscellaneous settings.
+This menu, accessible by pressing the "add chore" button on the home page, allows you to create new chores, setting due dates, assigning users, and modify other miscellaneous settings. The additional images show the different forms of the page when things are clicked.
 
 ![Add Chore - Empty](https://github.com/UsabilityEngineering/ChoreNoMore/assets/111928724/9615f08c-4ba1-42bf-a89f-48626f3dba52)
 ![Add Chore - added name](https://github.com/UsabilityEngineering/ChoreNoMore/assets/111928724/da42f4bd-743b-4ee6-9d7d-6d2da53d830f)
@@ -41,7 +41,7 @@ This menu, accessible by pressing the "add chore" button on the home page, allow
 
 ### Assign Chores Menu
 
-This menu is accessible by pressing the "assign chores" button. It allows you to select a subset of the chores in a household and cycle the chores between the different users of your household.
+This menu is accessible by pressing the "assign chores" button. It allows you to select a subset of the chores in a household and cycle the chores between the different users of your household. The additional images show the different forms of the page when things are clicked.
 
 ![Assign Chores - none selected – 1](https://github.com/UsabilityEngineering/ChoreNoMore/assets/111928724/9482a97d-67c8-4b25-8077-fca1ea3e699b)
 ![Assign Chores - none selected](https://github.com/UsabilityEngineering/ChoreNoMore/assets/111928724/1fce2d4c-aa83-443a-8897-d81307ab5e94)
@@ -63,6 +63,6 @@ The add member menu, accessible by pressing the "add member" button on the home 
 
 ## Calender Page
 
-The calender page displays which days have chores due. The additional images show the different forms of the page when things are clicked at different stages in the given tasks.
+The calender page displays which days have chores due.
 
 ![Calendar](https://github.com/UsabilityEngineering/ChoreNoMore/assets/111928724/39dc3fcd-e360-4906-ab32-f2e8a7247930)
