@@ -13,7 +13,7 @@ Chore No More is going to be a website that can support a wide range of users in
 * [Personas and Scenarios](personas/PersonasandScenarios-ChoreNoMore.pdf)
 * [Sketches and Diagrams](sketches/Sketches%20and%20Diagrams.pdf)
 * [Wireframes](wireframes/)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](prototypes/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
