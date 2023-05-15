@@ -54,9 +54,10 @@ Informal feedback and cognitive walkthroughs for our wireframes for Chore No Mor
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+We created a prototype for users to test the current features of Chore No More. We had feedback from 5 different users who followed the same protocol along with the supervision of a moderator. While the feedback from the test was generally positive, we noted several possible areas of improvement:
+* There were issues of **salience**: Many noted difficulty reading labels due to their size. For example, several users encountered difficulty finding the top navigation bar or the radio buttons inside the “Manage Chores” menu.
+* Aspects of the app are not **learnable**: Several users were confused about the terminology used in the application. The main sticking points were the terms “Household” and “Cycle Chores.” However, one user noted specific pleasure in using the term “Household.”
+* Our designs could have improved **error tolerance**: One user clicked “Manage Chores” with the expectation they could add a chore from that menu. They had difficulty recovering from this error with the current design.
+Despite this feedback, most users said they would use the site again. This suggests that we are **heading in the right direction** with our designs. Although valuable, the feedback was only from college students and not from any families affecting the data in favor of one demographic. With all the insight and data we have gained, we will be able to improve Chore No More in the future.
 
 [Full phase III report](phaseIII/)
