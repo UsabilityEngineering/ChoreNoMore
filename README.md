@@ -4,9 +4,9 @@ Chore No More is going to be a website that can support a wide range of users in
 
 ## UX Team Members
 
-* **Olivia Ennis** - <a href="https://usabilityengineering.github.io/ux-portfolio-ocennis/"> Olivia's Site </a> - Personas and Scenarios, Sketches and Diagrams, Prototypes, Introduction(Phase 1, 2, & 3), Caveats(Phase 2 & 3), Part of Executive Summary(Phase 1)
-* **Miles Benton** - <a href="https://github.com/UsabilityEngineering/ux-portfolio-kil0meters"> Miles's Site </a> - Methods, Findings, Executive Summary
-* **Christopher Fernand Gonzalez** - <a href="https://github.com/UsabilityEngineering/ux-portfolio-ChrisG183"> Christopher's Site </a> - Conclusions, Caveats
+* **Olivia Ennis** - <a href="https://usabilityengineering.github.io/ux-portfolio-ocennis/"> Olivia's Site </a> - Personas and Scenarios(Phase 1), Sketches and Diagrams(Phase 1), Executive Summary(Partial Phase 1 & Most Phase 2), Introduction(Phase 1, 2, & 3),   Prototypes(Phase 3), Methods(Phase 2), Conclusion(Phase 3), Caveats(Phase 2 & 3)
+* **Miles Benton** - <a href="https://github.com/UsabilityEngineering/ux-portfolio-kil0meters"> Miles's Site </a> - Methods(Phase 1 & 3), Findings(Phase 1, 2, & 3), Executive Summary(Phase 1), Wireframes(Phase 2), Conclusion(Phase 2)
+* **Christopher Fernand Gonzalez** - <a href="https://github.com/UsabilityEngineering/ux-portfolio-ChrisG183"> Christopher's Site </a> - Conclusions(Phase 1), Caveats(Phase 1), Executive Summary(Phase 3), Consent Form(Phase 3)
 
 # User-Centered Design Artifacts
  
@@ -55,9 +55,11 @@ Informal feedback and cognitive walkthroughs for our wireframes for Chore No Mor
 **Executive Summary**
 
 We created a prototype for users to test the current features of Chore No More. We had feedback from 5 different users who followed the same protocol along with the supervision of a moderator. While the feedback from the test was generally positive, we noted several possible areas of improvement:
+
 * There were issues of **salience**: Many noted difficulty reading labels due to their size. For example, several users encountered difficulty finding the top navigation bar or the radio buttons inside the “Manage Chores” menu.
 * Aspects of the app are not **learnable**: Several users were confused about the terminology used in the application. The main sticking points were the terms “Household” and “Cycle Chores.” However, one user noted specific pleasure in using the term “Household.”
 * Our designs could have improved **error tolerance**: One user clicked “Manage Chores” with the expectation they could add a chore from that menu. They had difficulty recovering from this error with the current design.
+
 Despite this feedback, most users said they would use the site again. This suggests that we are **heading in the right direction** with our designs. Although valuable, the feedback was only from college students and not from any families affecting the data in favor of one demographic. With all the insight and data we have gained, we will be able to improve Chore No More in the future.
 
 [Full phase III report](phaseIII/)
