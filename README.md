@@ -4,9 +4,9 @@ Chore No More is going to be a website that can support a wide range of users in
 
 ## UX Team Members
 
-* **Olivia Ennis** - <a href="https://usabilityengineering.github.io/ux-portfolio-ocennis/"> Olivia's Site </a> - Personas and Scenarios(Phase 1), Sketches and Diagrams(Phase 1), Executive Summary(Partial Phase 1 & Most Phase 2), Introduction(Phase 1, 2, & 3),   Prototypes(Phase 3), Methods(Phase 2), Conclusion(Phase 3), Caveats(Phase 2 & 3)
-* **Miles Benton** - <a href="https://github.com/UsabilityEngineering/ux-portfolio-kil0meters"> Miles's Site </a> - Methods(Phase 1 & 3), Findings(Phase 1, 2, & 3), Executive Summary(Phase 1), Wireframes(Phase 2), Conclusion(Phase 2)
-* **Christopher Fernand Gonzalez** - <a href="https://github.com/UsabilityEngineering/ux-portfolio-ChrisG183"> Christopher's Site </a> - Conclusions(Phase 1), Caveats(Phase 1), Executive Summary(Phase 3), Consent Form(Phase 3)
+* **Olivia Ennis** - [Olivia's Site](https://usabilityengineering.github.io/ux-portfolio-ocennis/) - Personas and Scenarios(Phase 1), Sketches and Diagrams(Phase 1), Executive Summary(Partial Phase 1 & Most Phase 2), Introduction(Phase 1, 2, & 3),   Prototypes(Phase 3), Methods(Phase 2), Conclusion(Phase 3), Caveats(Phase 2 & 3), User Testing Protocol (Phase 3)
+* **Miles Benton** - [Miles' Site](https://github.com/UsabilityEngineering/ux-portfolio-kil0meters) - Methods(Phase 1 & 3), Findings(Phase 1, 2, & 3), Executive Summary(Phase 1, Partial Phase 2 & Partial Phase 3), Wireframes(Phase 2), Conclusion(Phase 2), User Testing Protocol (Phase 3)
+* **Christopher Fernand Gonzalez** - [Christopher's Site](https://github.com/UsabilityEngineering/ux-portfolio-ChrisG183) - Conclusions(Phase 1), Caveats(Phase 1), Executive Summary(Phase 3), Consent Form(Phase 3)
 
 # User-Centered Design Artifacts
  
